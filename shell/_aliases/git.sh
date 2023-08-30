@@ -1,0 +1,6 @@
+alias gaa='git add -A'
+alias gco='git checkout'
+alias gcm='git commit -m'
+alias gps='git push'
+alias gb='git branch'
+alias gs='git status -sb'
