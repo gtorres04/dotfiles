@@ -1,0 +1,7 @@
+ln -s ".dotfiles/shell/bash/.bashrc" "$HOME/.bashrc"
+ln -s ".dotfiles/shell/bash/.bash_profile" "$HOME/.bash_profile"
+ln -s ".dotfiles/shell/bash/.profile" "$HOME/.profile"
+ln -s ".dotfiles/shell/zsh/.zimrc" "$HOME/.zimrc"
+ln -s ".dotfiles/shell/zsh/.zlogin" "$HOME/.zlogin"
+ln -s ".dotfiles/shell/zsh/.zshenv" "$HOME/.zshenv"
+ln -s ".dotfiles/shell/zsh/.zshrc" "$HOME/.zshrc"
